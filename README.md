@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-azeddine&label=Profile%20views&color=0e75b6&style=flat" alt="b-azeddine" /> </p>
 
 
-- 🔭 I’m currently a studying software engineering at [1337](www.1337.ma)
+- 🔭 I’m currently a studying software engineering at [1337]](https://www.1337.ma)
 
 - 🌱 I’m currently learning **C / C++**
 
