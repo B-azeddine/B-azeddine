@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C / C++**
 
-- 💬 Ask me about **MEARN STACK & algorithms**
+- 💬 Ask me about **MERN STACK & algorithms**
 
 - 📫 How to reach me **blidiazeddine@gmail.com**
 
