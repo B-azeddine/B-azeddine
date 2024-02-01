@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif"/>
 
-[![ablidi's 42 stats](https://badge.mediaplus.ma/binary/ablidi)](https://github.com/oakoudad/badge42)
+[![ablidi's 42 stats](https://badge.mediaplus.ma/greenbinary/ablidi?1337Badge=off)](https://github.com/oakoudad/badge42)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-azeddine&label=Profile%20views&color=0e75b6&style=flat" alt="b-azeddine" /> </p>
 
