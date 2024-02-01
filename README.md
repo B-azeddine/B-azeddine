@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Azeddine</h1>
 <h3 align="center">A passionate Web developer from <img align="center" alt="blad" width="50" src="https://em-content.zobj.net/thumbs/120/apple/354/flag-morocco_1f1f2-1f1e6.png"></h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif"/>
+<img align="right" alt="Coding" width="360" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif"/>
 
 [![ablidi's 42 stats](https://badge.mediaplus.ma/binary/ablidi)](https://github.com/oakoudad/badge42)
 
