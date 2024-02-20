@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently studying software engineering at <a href="https://www.1337.ma" target="blank">1337</a>
 
-- 🌱 I’m currently learning **C / C++** 
+- 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **MERN STACK & algorithms**
+- 💬 Ask me about   **C / C++ & algorithms**
 
 - 📫 How to reach me **blidiazeddine@gmail.com**
 
